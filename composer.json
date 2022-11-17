@@ -1,0 +1,12 @@
+{
+    "name": "mexti/ide-helper",
+    "type": "library",
+    "description": "IDE help files for mexti extension.",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "jok",
+            "email": "jok@qq.com"
+        }
+    ]
+}
