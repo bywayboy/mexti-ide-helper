@@ -66,4 +66,12 @@ class MinHeap{
     public function top() : mixed{
         return new MinHeapNode();
     }
+
+    /**
+     * 提供一个索引为止 获取一个成员(并不会弹出).
+     * @return ?MinHeapNode
+     */
+    public function at(int $index) : mixed {
+        return new MinHeapNode();
+    }
 }
