@@ -21,9 +21,9 @@ class LuaVM {
      * @param mixed ...$args 要传递给lua函数的参数.
      * @return mixed 返回值 多个返回值会打包成 array 返回.
      */
-    public function call(string $func, ...$args)
+    public function call(string $func, ...$args) : mixed
     {
-
+        return null;
     }
 
     /**
